@@ -1,0 +1,33 @@
+assignment 1.3 
+
+ the following Linux commands with example
+
+1. pwd - pwd prints the full pathname of the current working directory
+
+2. vi - editor to edit an existing file or to create a new file from scratch and can also use this editor to just read a text file.
+
+3. touch - used to update the access date and / or modification date of a file or directory
+
+4. mkdir - used to create directories on a file system
+
+5. rm - removes (deletes) files or directories
+
+6. ls - lists directory contents of files and directories
+
+7. echo -  used to display text status to a file or screen
+
+8. cat - allows us to create single or multiple files, view contain of file, concatenate files and redirect output in terminal or files
+
+9. who - displays a list of users who are currently logged into the computer
+
+10. cd - changes the shell's current working directory
+
+11. date - display date in several formats and allows us to set systems date and time
+
+12. cal - Display a conveniently-formatted calendar from the command line
+
+13. mv - used to move files and directories
+
+14. cp - Copy from source to dest
+ 
+15. which - Locate the executable file associated with a given command
